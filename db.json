@@ -1,0 +1,225 @@
+{
+    "events": [
+      {
+        "id": 1,
+        "title": "Swedish Folk Music Festival",
+        "description": "Experience the rich tradition of Swedish folk music with live performances and cultural activities.",
+        "location": "Spira Cultural Center",
+        "date": "2024-04-15",
+        "time": "19:00",
+        "image": "https://example.com/event1.jpg",
+        "category": "Music",
+        "attendeesCount": 0
+      },
+      {
+        "id": 2,
+        "title": "Nordic Design Exhibition",
+        "description": "Explore the creativity of Nordic design at this exhibition showcasing innovative and sustainable designs.",
+        "location": "Jönköping County Museum",
+        "date": "2024-05-20",
+        "time": "10:00",
+        "image": "https://example.com/event2.jpg",
+        "category": "Exhibition",
+        "attendeesCount": 0
+      },
+      {
+        "id": 3,
+        "title": "Midsummer Celebration",
+        "description": "Join us for a traditional Swedish Midsummer celebration with dance, music, and a festive atmosphere.",
+        "location": "Munksjön Park",
+        "date": "2024-06-25",
+        "time": "15:00",
+        "image": "https://example.com/event3.jpg",
+        "category": "Festival",
+        "attendeesCount": 0
+      },
+      {
+        "id": 4,
+        "title": "Smorgasbord Cooking Workshop",
+        "description": "Learn to prepare and enjoy classic Swedish dishes in this hands-on cooking workshop.",
+        "location": "Jönköping Culinary School",
+        "date": "2024-07-10",
+        "time": "17:30",
+        "image": "https://example.com/event4.jpg",
+        "category": "Workshop",
+        "attendeesCount": 0
+      },
+      {
+        "id": 5,
+        "title": "Jazz in the Park",
+        "description": "Relax and unwind with an evening of jazz music in the beautiful Munksjön Park.",
+        "location": "Munksjön Park",
+        "date": "2024-09-10",
+        "time": "20:00",
+        "image": "https://example.com/event5.jpg",
+        "category": "Music",
+        "attendeesCount": 0
+      },
+      {
+        "id": 6,
+        "title": "Nordic Fashion Show",
+        "description": "Experience the latest in Nordic fashion trends with a glamorous runway show.",
+        "location": "A6 Shopping Mall",
+        "date": "2024-09-25",
+        "time": "19:30",
+        "image": "https://example.com/event6.jpg",
+        "category": "Fashion",
+        "attendeesCount": 0
+      },
+      {
+        "id": 7,
+        "title": "Cultural Heritage Tour",
+        "description": "Embark on a guided tour exploring the rich cultural heritage of Jönköping and its historic landmarks.",
+        "location": "Jönköping City Center",
+        "date": "2024-10-05",
+        "time": "11:00",
+        "image": "https://example.com/event7.jpg",
+        "category": "Tour",
+        "attendeesCount": 0
+      },
+      {
+        "id": 8,
+        "title": "Nordic Cuisine Tasting Event",
+        "description": "Savor the flavors of Nordic cuisine with a tasting event featuring local chefs and culinary delights.",
+        "location": "Jönköping Food Market",
+        "date": "2024-10-20",
+        "time": "16:00",
+        "image": "https://example.com/event8.jpg",
+        "category": "Food",
+        "attendeesCount": 0
+      },
+      {
+        "id": 9,
+        "title": "Scandinavian Art Exhibition",
+        "description": "Immerse yourself in the beauty of Scandinavian art at this exclusive exhibition showcasing diverse artworks.",
+        "location": "Jönköping Art Museum",
+        "date": "2024-11-08",
+        "time": "12:00",
+        "image": "https://example.com/event9.jpg",
+        "category": "Art",
+        "attendeesCount": 0
+      },
+      {
+        "id": 10,
+        "title": "Winter Wonderland Market",
+        "description": "Experience the magic of winter with a festive market featuring crafts, food, and seasonal activities.",
+        "location": "Jönköping City Square",
+        "date": "2024-12-01",
+        "time": "17:00",
+        "image": "https://example.com/event10.jpg",
+        "category": "Market",
+        "attendeesCount": 0
+      },
+      {
+        "id": 11,
+        "title": "Traditional Lucia Celebration",
+        "description": "Celebrate the Swedish tradition of Lucia with a candlelit procession, music, and festive treats.",
+        "location": "St. Peter's Church, Jönköping",
+        "date": "2024-12-13",
+        "time": "19:30",
+        "image": "https://example.com/event11.jpg",
+        "category": "Celebration",
+        "attendeesCount": 0
+      },
+      {
+        "id": 12,
+        "title": "Outdoor Ice Skating Rink Opening",
+        "description": "Join the excitement as we open the outdoor ice skating rink for the winter season.",
+        "location": "Jönköping Ice Arena",
+        "date": "2025-01-05",
+        "time": "14:00",
+        "image": "https://example.com/event12.jpg",
+        "category": "Sports",
+        "attendeesCount": 0
+      },
+      {
+        "id": 13,
+        "title": "Swedish Nature Photography Workshop",
+        "description": "Capture the beauty of Swedish nature in this photography workshop led by professional photographers.",
+        "location": "Visingsö Nature Reserve",
+        "date": "2025-02-15",
+        "time": "10:00",
+        "image": "https://example.com/event13.jpg",
+        "category": "Workshop",
+        "attendeesCount": 0
+      },
+      {
+        "id": 14,
+        "title": "Sailing Adventure in Lake Vättern",
+        "description": "Embark on a thrilling sailing adventure on the picturesque Lake Vättern. All skill levels welcome!",
+        "location": "Lake Vättern",
+        "date": "2025-03-10",
+        "time": "13:30",
+        "image": "https://example.com/event14.jpg",
+        "category": "Adventure",
+        "attendeesCount": 0
+      },
+      {
+        "id": 15,
+        "title": "Nordic Folk Dance Workshop",
+        "description": "Learn traditional Nordic folk dances in this fun and interactive workshop suitable for all ages.",
+        "location": "Jönköping Community Center",
+        "date": "2025-03-25",
+        "time": "18:00",
+        "image": "https://example.com/event15.jpg",
+        "category": "Dance",
+        "attendeesCount": 0
+      },
+      {
+        "id": 16,
+        "title": "Historical Boat Tour on Lake Munksjön",
+        "description": "Explore Jönköping's history with a guided boat tour on the historic Lake Munksjön.",
+        "location": "Lake Munksjön",
+        "date": "2025-04-05",
+        "time": "11:30",
+        "image": "https://example.com/event16.jpg",
+        "category": "History",
+        "attendeesCount": 0
+      },
+      {
+        "id": 17,
+        "title": "Outdoor Yoga Retreat",
+        "description": "Escape the city and rejuvenate with a weekend outdoor yoga retreat in the scenic outskirts of Jönköping.",
+        "location": "Nature Retreat Center",
+        "date": "2025-04-20",
+        "time": "09:00",
+        "image": "https://example.com/event17.jpg",
+        "category": "Wellness",
+        "attendeesCount": 0
+      },
+      {
+        "id": 18,
+        "title": "Scandinavian Film Festival",
+        "description": "Immerse yourself in the best of Scandinavian cinema with a diverse selection of films and documentaries.",
+        "location": "City Cinema Complex",
+        "date": "2024-07-25",
+        "time": "18:30",
+        "image": "https://example.com/event18.jpg",
+        "category": "Film",
+        "attendeesCount": 0
+      },
+      {
+        "id": 19,
+        "title": "Jönköping Book Fair",
+        "description": "Discover a world of literature at the Jönköping Book Fair, featuring book signings and author discussions.",
+        "location": "Jönköping Library",
+        "date": "2024-08-10",
+        "time": "12:00",
+        "image": "https://example.com/event19.jpg",
+        "category": "Literature",
+        "attendeesCount": 0
+      },
+      {
+        "id": 20,
+        "title": "Nordic Culinary Tour",
+        "description": "Embark on a culinary journey through the Nordic region, sampling dishes from various countries.",
+        "location": "Various Restaurants",
+        "date": "2024-08-25",
+        "time": "19:00",
+        "image": "https://example.com/event20.jpg",
+        "category": "Food",
+        "attendeesCount": 0
+      }
+    ]
+  }
+  
