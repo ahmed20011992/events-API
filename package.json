@@ -1,17 +1,17 @@
 {
   "name": "events-api",
   "version": "1.0.0",
-  "description": "API has data that i will use in my ios project",
+  "description": "API has data that I will use in my iOS project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "(https://github.com/ahmed20011992/events-API)"
+    "url": "https://github.com/ahmed20011992/events-API"
   },
-  "author": "",
+  "author": "Ahmed",
   "license": "ISC",
   "dependencies": {
     "json-server": "^1.0.0-alpha.23"
