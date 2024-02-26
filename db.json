@@ -220,6 +220,79 @@
         "category": "Food",
         "attendeesCount": 0
       }
-    ]
+    ],
+    "hotels": [
+      {
+          "id": 1,
+          "name": "City Plaza Hotel",
+          "location": "City Center",
+          "price": "$150 per night",
+          "availability": "Available"
+      },
+      {
+          "id": 2,
+          "name": "Lakeview Lodge",
+          "location": "Munksjön Lakeside",
+          "price": "$180 per night",
+          "availability": "Limited"
+      },
+      {
+          "id": 3,
+          "name": "Nordic Comfort Inn",
+          "location": "Downtown Jönköping",
+          "price": "$120 per night",
+          "availability": "Available"
+      },
+      {
+          "id": 4,
+          "name": "Hillside Retreat",
+          "location": "Huskvarna Hills",
+          "price": "$200 per night",
+          "availability": "Limited"
+      },
+      {
+          "id": 5,
+          "name": "Old Town Boutique Hotel",
+          "location": "Old Town District",
+          "price": "$190 per night",
+          "availability": "Available"
+      },
+      {
+          "id": 6,
+          "name": "Parkside Motel",
+          "location": "Munksjön Park Area",
+          "price": "$80 per night",
+          "availability": "Available"
+      },
+      {
+          "id": 7,
+          "name": "Mountain View Lodge",
+          "location": "Surrounding Hills",
+          "price": "$130 per night",
+          "availability": "Limited"
+      },
+      {
+          "id": 8,
+          "name": "Nature Retreat Resort",
+          "location": "Visingsö Nature Reserve",
+          "price": "$170 per night",
+          "availability": "Available"
+      },
+      {
+          "id": 9,
+          "name": "Harbor Lights Inn",
+          "location": "Harbor District",
+          "price": "$160 per night",
+          "availability": "Limited"
+      },
+      {
+          "id": 10,
+          "name": "Golden Sands Resort",
+          "location": "Beachfront Area",
+          "price": "$220 per night",
+          "availability": "Available"
+      }
+  ]
+  
   }
   
