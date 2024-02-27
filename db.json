@@ -292,6 +292,312 @@
           "price": "$220 per night",
           "availability": "Available"
       }
+  ], "stores" :[
+    [
+      {
+        "id": 1,
+        "name": "Åhlens",
+        "url": "ahlens.se/varuhus/jonkoping?utm_source=google&utm_medium=organic&utm_campaign=business_profile&utm_content=website_link",
+        "district": "Öster",
+        "rating": 2
+      },
+      {
+        "id": 2,
+        "name": "Akademibokhandeln",
+        "url": "akademibokhandeln.se/butik/jonkoping-c",
+        "district": "Öster"
+      },
+      {
+        "id": 3,
+        "name": "Apoteket AB",
+        "url": "apoteket.se/apotek/apoteket-ostra-storgatan-jonkoping/",
+        "district": null
+      },
+      {
+        "id": 4,
+        "name": "Apotek Hjärtat",
+        "url": "apotekhjartat.se/hitta-apotek-hjartat/jonkoping/apotek_hjartat_smedjegatan_2_jonkoping/",
+        "district": null
+      },
+      {
+        "id": 5,
+        "name": "Ashur Brud & Fest - Skrädderi",
+        "url": "facebook.com/AshuraitaBrudFest/",
+        "district": null
+      },
+      {
+        "id": 6,
+        "name": "Asia livs, servicebutik",
+        "url": "facebook.com/profile.php?id=100051215441977",
+        "district": null
+      },
+      {
+        "id": 7,
+        "name": "Ateljé Creativ i Jönköping/Finrummet",
+        "url": "/finrummet.net",
+        "district": "Väster"
+      },
+      {
+        "id": 8,
+        "name": "Ateljé KEG",
+        "url": "ateljekeg.se",
+        "district": "Öster"
+      },
+      {
+        "id": 9,
+        "name": "Atlantis Dive College",
+        "url": "atlantis.se",
+        "district": "Väster"
+      },
+      {
+        "id": 10,
+        "name": "Bagelle väskboutique",
+        "url": null,
+        "district": null
+      },
+      {
+        "id": 11,
+        "name": "Balance Ljud och Bild",
+        "url": "balance.se",
+        "district": null
+      },
+      {
+        "id": 12,
+        "name": "BGA Fotocenter",
+        "url": "bgafotocenter.se/jonkoping/",
+        "district": "Öster"
+      },
+      {
+        "id": 13,
+        "name": "Bikupan",
+        "url": "bikupan.org",
+        "district": "Tändsticksområdet"
+      },
+      {
+        "id": 14,
+        "name": "Blankdays",
+        "url": "https://blankdays.com/collections/all-products?gclid=CjwKCAjwov6hBhBsEiwAvrvN6EZZ1PsnlSJhnE7bmxINtl0Y0noU3rvCybdt217CGd3-bqMdx3mYRxoCK5EQAvD_BwE",
+        "district": "Tändsticksområdet"
+      },
+      {
+        "id": 15,
+        "name": "Boardlife",
+        "url": "boardlife.se",
+        "district": "Väster"
+      },
+      {
+        "id": 16,
+        "name": "Borgs skor",
+        "url": "borgsskor.se/kontakt",
+        "district": "Öster"
+      },
+      {
+        "id": 17,
+        "name": "Boutique Lykka",
+        "url": "boutiquelykka.se",
+        "district": "Öster"
+      },
+      {
+        "id": 18,
+        "name": "Broder Bläck",
+        "url": "facebook.com/broderblacktatuering/",
+        "district": "Öster"
+      },
+      {
+        "id": 19,
+        "name": "Buketten",
+        "url": "instagram.com/bukettenjonkoping/?hl=sv",
+        "district": "Öster"
+      },
+      {
+        "id": 20,
+        "name": "Busfrö Nytt & Bytt",
+        "url": "busfro.se",
+        "district": "Öster"
+      },
+      {
+        "id": 21,
+        "name": "Butiken Noga Utvalt",
+        "url": "butikenjkpg.se",
+        "district": "Atollen"
+      },
+      {
+        "id": 22,
+        "name": "Carlings",
+        "url": "carlings.com/sv/corporate/Butiker/sweden/58f/",
+        "district": "Öster"
+      },
+      {
+        "id": 23,
+        "name": "Casa Souk",
+        "url": "casasouk.se",
+        "district": "Väster"
+      },
+      {
+        "id": 24,
+        "name": "Cervera",
+        "url": "cervera.se/hitta-butik/",
+        "district": "Öster"
+      },
+      {
+        "id": 25,
+        "name": "Clas Ohlson",
+        "url": "clasohlson.com/se/store-finder?q=J%C3%B6nk%C3%B6ping,%20City&latitude=57.78252&longitude=14.17347&source=search",
+        "district": "Öster"
+      },
+      {
+        "id": 26,
+        "name": "Coop Atollen",
+        "url": "coop.se/butiker-erbjudanden/coop/coop-atollen-jonkoping/",
+        "district": "Atollen"
+      },
+      {
+        "id": 27,
+        "name": "Coop Östra Torget",
+        "url": "coop.se/butiker-erbjudanden/coop/coop-ostra-torget/",
+        "district": "Öster"
+      },
+      {
+        "id": 28,
+        "name": "Copenhagen Luxe",
+        "url": "https://copenhagenluxe.dk/",
+        "district": "Öster"
+      },
+      {
+        "id": 29,
+        "name": "Day fotografi",
+        "url": "dayfotografi.se/",
+        "district": null
+      },
+      {
+        "id": 30,
+        "name": "Dinos skomakeri",
+        "url": "skomakaredino.se",
+        "district": "Öster"
+      },
+      {
+        "id": 31,
+        "name": "Donna Beauty",
+        "url": "donnabeauty.se",
+        "district": null
+      },
+      {
+        "id": 32,
+        "name": "Douglas",
+        "url": "douglas.se/sv/c/200100",
+        "district": "Öster"
+      },
+      {
+        "id": 33,
+        "name": "Dressmann",
+        "url": "dressmann.com/se/magazine/stores/jonkoping",
+        "district": "Öster"
+      },
+      {
+        "id": 34,
+        "name": "Dressmann XL",
+        "url": "dressmann.com/se/magazine/stores/jonkoping",
+        "district": "Öster"
+      },
+      {
+        "id": 35,
+        "name": "Drottning Hollywood",
+        "url": "facebook.com/drottninghollywood",
+        "district": null
+      },
+      {
+        "id": 36,
+        "name": "Dust of Us",
+        "url": "dustofus.se",
+        "district": "Öster"
+      },
+      {
+        "id": 37,
+        "name": "E.A. Lundell Konfektion",
+        "url": "ealundell.bandcamp.com",
+        "district": "Väster"
+      },
+      {
+        "id": 38,
+        "name": "Edsbyns möbler",
+        "url": "edsbyn.com/sv/",
+        "district": null
+      },
+      {
+        "id": 39,
+        "name": "Elgiganten",
+        "url": "elgiganten.se",
+        "district": "Öster"
+      },
+      {
+        "id": 40,
+        "name": "Enchante",
+        "url": "enchante.se",
+        "district": "Öster"
+      },
+      {
+        "id": 41,
+        "name": "Espri",
+        "url": "espri.se",
+        "district": "Öster"
+      },
+      {
+        "id": 42,
+        "name": "Esska Fotboll",
+        "url": "esskafotboll.se",
+        "district": "Tändsticksområdet"
+      },
+      {
+        "id": 43,
+        "name": "Etcetera",
+        "url": "etcetera.nu",
+        "district": "Öster"
+      },
+      {
+        "id": 44,
+        "name": "Euro Nail Studio",
+        "url": "euronailstudio.se",
+        "district": null
+      },
+      {
+        "id": 45,
+        "name": "Färgtema",
+        "url": "fargtema.se",
+        "district": null
+      },
+      {
+        "id": 46,
+        "name": "Fea Design",
+        "url": "feadesign.se",
+        "district": "Väster"
+      },
+      {
+        "id": 47,
+        "name": "Ferdinand & Co",
+        "url": "ferdinandandco.com",
+        "district": "Väster"
+      },
+      {
+        "id": 48,
+        "name": "Filippa K",
+        "url": "filippa-k.com",
+        "district": "Öster"
+      },
+      {
+        "id": 49,
+        "name": "Fine by Matilda",
+        "url": "finebymatilda.com",
+        "district": "Öster"
+      },
+      {
+        "id": 50,
+        "name": "Fine Livings",
+        "url": "finelivings.se",
+        "district": "Väster"
+      }
+    ]
+    
+    
   ]
   
   }
