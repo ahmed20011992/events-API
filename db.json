@@ -293,7 +293,7 @@
           "availability": "Available"
       }
   ], "stores" :[
-    [
+    
       {
         "id": 1,
         "name": "Åhlens",
@@ -595,10 +595,169 @@
         "url": "finelivings.se",
         "district": "Väster"
       }
-    ]
-    
-    
-  ]
-  
-  }
+    ],"restaurants": [
+        {
+          "id": 1,
+          "place_name": "Downtown Jönköping",
+          "food_category": "American",
+          "name": "Burger Bar"
+        },
+        {
+          "id": 2,
+          "place_name": "City Center Plaza",
+          "food_category": "Italian",
+          "name": "La Pizzeria"
+        },
+        {
+          "id": 3,
+          "place_name": "Riverside Avenue",
+          "food_category": "Seafood",
+          "name": "Seafood Haven"
+        },
+        {
+          "id": 4,
+          "place_name": "Old Town Square",
+          "food_category": "Thai",
+          "name": "Thai Delight"
+        },
+        {
+              "id": 5,
+              "place_name": "Lakeview Terrace",
+              "food_category": "Mediterranean",
+              "name": "Mediterranean Breeze"
+            },
+            {
+              "id": 6,
+              "place_name": "Market Square",
+              "food_category": "Japanese",
+              "name": "Sushi Express"
+            },
+            {
+              "id": 7,
+              "place_name": "Garden Street",
+              "food_category": "French",
+              "name": "Café du Soleil"
+            },
+            {
+              "id": 8,
+              "place_name": "Riverwalk Promenade",
+              "food_category": "Steakhouse",
+              "name": "Grill & Chill Steakhouse"
+            },
+            {
+                  "id": 9,
+                  "place_name": "Waterfront Avenue",
+                  "food_category": "Turkish",
+                  "name": "Turkish Delight"
+                },
+                {
+                  "id": 10,
+                  "place_name": "Cobblestone Square",
+                  "food_category": "Mexican",
+                  "name": "Hola Mexicana"
+                },
+                {
+                  "id": 11,
+                  "place_name": "Harbor View Street",
+                  "food_category": "Asian Fusion",
+                  "name": "Asia Palace"
+                },
+                {
+                  "id": 12,
+                  "place_name": "Main Street Plaza",
+                  "food_category": "Vegetarian",
+                  "name": "Green Garden Cafe"
+                },
+                {
+                      "id": 13,
+                      "place_name": "Lakeside Avenue",
+                      "food_category": "Greek",
+                      "name": "Olive Grove Taverna"
+                    },
+                    {
+                      "id": 14,
+                      "place_name": "City Park Street",
+                      "food_category": "Indian",
+                      "name": "Spice Route"
+                    },
+                    {
+                      "id": 15,
+                      "place_name": "Riverside Drive",
+                      "food_category": "Vietnamese",
+                      "name": "Saigon Bistro"
+                    },
+                    {
+                      "id": 16,
+                      "place_name": "Market Street",
+                      "food_category": "Vegetarian",
+                      "name": "Veggie Haven"
+                    },
+                    {
+                          "id": 17,
+                          "place_name": "Lakeshore Boulevard",
+                          "food_category": "American",
+                          "name": "Sunset Grill"
+                        },
+                        {
+                          "id": 18,
+                          "place_name": "City Center Square",
+                          "food_category": "Italian",
+                          "name": "Pasta Paradise"
+                        },
+                        {
+                          "id": 19,
+                          "place_name": "Riverside Terrace",
+                          "food_category": "Seafood",
+                          "name": "Ocean's Catch"
+                        },
+                        {
+                          "id": 20,
+                          "place_name": "Old Town Street",
+                          "food_category": "French",
+                          "name": "Le Bistro"
+                        },
+                        {
+                              "id": 21,
+                              "place_name": "Riverside Avenue",
+                              "food_category": "Thai",
+                              "name": "Thai Orchid"
+                            },
+                            {
+                              "id": 22,
+                              "place_name": "Central Square",
+                              "food_category": "Chinese",
+                              "name": "Golden Dragon"
+                            },
+                            {
+                              "id": 23,
+                              "place_name": "Lakeview Street",
+                              "food_category": "Mediterranean",
+                              "name": "Mediterranean Delight"
+                            },
+                            {
+                              "id": 24,
+                              "place_name": "Marketplace Alley",
+                              "food_category": "Indian",
+                              "name": "Taj Mahal"
+                            },
+                            {
+                                  "id": 25,
+                                  "place_name": "Harborview Road",
+                                  "food_category": "Japanese",
+                                  "name": "Sakura Sushi"
+                                },
+                                {
+                                  "id": 26,
+                                  "place_name": "City Square",
+                                  "food_category": "Mexican",
+                                  "name": "Amigos Taqueria"
+                                },
+                                {
+                                  "id": 27,
+                                  "place_name": "Riverfront Avenue",
+                                  "food_category": "Italian",
+                                  "name": "Pasta Bella"
+                                }
+                      ]
+}
   
