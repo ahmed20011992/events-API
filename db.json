@@ -219,6 +219,116 @@
         "image": "https://example.com/event20.jpg",
         "category": "Food",
         "attendeesCount": 0
+      },
+      {
+        "id": 21,
+        "title": "Nordic Tech Conference",
+        "description": "Explore the latest advancements in Nordic technology with keynote speakers and interactive sessions.",
+        "location": "TechHub Jönköping",
+        "date": "2025-05-15",
+        "time": "09:30",
+        "image": "https://example.com/event21.jpg",
+        "category": "Technology",
+        "attendeesCount": 0
+      },
+      {
+        "id": 22,
+        "title": "Swedish Wildlife Safari",
+        "description": "Embark on a thrilling wildlife safari to observe the diverse flora and fauna of the Swedish wilderness.",
+        "location": "Nordic National Park",
+        "date": "2025-06-20",
+        "time": "14:00",
+        "image": "https://example.com/event22.jpg",
+        "category": "Nature",
+        "attendeesCount": 0
+      },
+      {
+        "id": 23,
+        "title": "Scandinavian Music Awards",
+        "description": "Celebrate the best of Scandinavian music with live performances and award presentations.",
+        "location": "Concert Hall Jönköping",
+        "date": "2025-07-15",
+        "time": "19:30",
+        "image": "https://example.com/event23.jpg",
+        "category": "Music",
+        "attendeesCount": 0
+      },
+      {
+        "id": 24,
+        "title": "Nordic Gaming Expo",
+        "description": "Immerse yourself in the world of Nordic gaming with interactive exhibits and gaming competitions.",
+        "location": "Nordic Gaming Arena",
+        "date": "2025-08-10",
+        "time": "12:00",
+        "image": "https://example.com/event24.jpg",
+        "category": "Gaming",
+        "attendeesCount": 0
+      },
+      {
+        "id": 25,
+        "title": "Jönköping Fashion Week",
+        "description": "Experience the latest trends in fashion at Jönköping's premier fashion week event.",
+        "location": "Fashion District",
+        "date": "2025-09-05",
+        "time": "18:00",
+        "image": "https://example.com/event25.jpg",
+        "category": "Fashion",
+        "attendeesCount": 0
+      },
+      {
+        "id": 26,
+        "title": "Nordic Food and Wine Festival",
+        "description": "Savor the finest Nordic cuisine and wines at this delectable food and wine festival.",
+        "location": "Nordic Culinary Center",
+        "date": "2025-10-15",
+        "time": "16:30",
+        "image": "https://example.com/event26.jpg",
+        "category": "Food",
+        "attendeesCount": 0
+      },
+      {
+        "id": 27,
+        "title": "Scandinavian Literature Symposium",
+        "description": "Engage in discussions and literary explorations at the symposium dedicated to Scandinavian literature.",
+        "location": "Jönköping Literary Hall",
+        "date": "2025-11-10",
+        "time": "14:00",
+        "image": "https://example.com/event27.jpg",
+        "category": "Literature",
+        "attendeesCount": 0
+      },
+      {
+        "id": 28,
+        "title": "Nordic Wellness Retreat",
+        "description": "Escape for a weekend of relaxation and wellness activities in the serene Nordic countryside.",
+        "location": "Wellness Haven",
+        "date": "2025-12-05",
+        "time": "09:00",
+        "image": "https://example.com/event28.jpg",
+        "category": "Wellness",
+        "attendeesCount": 0
+      },
+      {
+        "id": 29,
+        "title": "Jönköping Science Fair",
+        "description": "Explore the wonders of science with captivating exhibits and hands-on experiments for all ages.",
+        "location": "Science Discovery Center",
+        "date": "2026-01-15",
+        "time": "10:00",
+        "image": "https://example.com/event29.jpg",
+        "category": "Science",
+        "attendeesCount": 0
+      },
+      {
+        "id": 30,
+        "title": "Nordic Dance Extravaganza",
+        "description": "Immerse yourself in a spectacular showcase of dance, featuring breathtaking performances representing the diverse dance traditions of the Nordic region.",
+        "location": "Dance Arts Theater",
+        "date": "2026-02-20",
+        "time": "17:30",
+        "image": "https://example.com/event30.jpg",
+        "category": "Dance",
+        "attendeesCount": 0
       }
     ],
     "hotels": [
